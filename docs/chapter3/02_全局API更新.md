@@ -20,4 +20,3 @@
 - .sync修改符已移除, 由v-model代替
   - <ChildComponent v-model:title="pageTitle" v-model:content="pageContent" />
 - v-if优先v-for解析
-- 
