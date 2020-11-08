@@ -14,3 +14,10 @@
 - app.use()
 
 ## 模板语法变化
+- v-model的本质变化
+  - prop：value -> modelValue；
+  - event：input -> update:modelValue；
+- .sync修改符已移除, 由v-model代替
+  - <ChildComponent v-model:title="pageTitle" v-model:content="pageContent" />
+- v-if优先v-for解析
+- 

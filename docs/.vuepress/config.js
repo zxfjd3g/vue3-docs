@@ -20,6 +20,7 @@ module.exports = {
           'chapter2/01_Composition API_常用部分',
           'chapter2/02_Composition API_其它部分',
           'chapter2/03_手写组合API',
+          'chapter2/04_Composition VS Option',
         ]
       },
       {

@@ -578,11 +578,11 @@ export default {
 
 ## 8) 生命周期
 
-#### vue2.x的生命周期
+**vue2.x的生命周期**
 
 ![lifecycle_2](https://vipkshttps3.wiz.cn/ks/note/view/49c30824-dcdf-4bd0-af2a-708f490b44a1/10311b3b-496c-41f1-8df3-c87572008080/index_files/1604629129730-y1h.png)
 
-#### vue3的生命周期
+**vue3的生命周期**
 
 ![lifecycle_3](https://vipkshttps3.wiz.cn/ks/note/view/49c30824-dcdf-4bd0-af2a-708f490b44a1/10311b3b-496c-41f1-8df3-c87572008080/index_files/1604629129585-tqn.png)
 
